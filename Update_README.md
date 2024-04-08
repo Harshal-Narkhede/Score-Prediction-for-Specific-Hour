@@ -16,6 +16,7 @@ This dataset contains information about student study hours and corresponding sc
 - **matplotlib.pyplot (plt):** For creating visualizations.
 - **seaborn (sns):** For advanced statistical visualizations.
 - **sklearn-learn:**
+  
 **train_test_split:** To split data into training and testing sets.
   
 **LinearRegression:** To implement the linear regression model.
