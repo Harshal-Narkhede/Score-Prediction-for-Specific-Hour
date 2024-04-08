@@ -6,18 +6,19 @@ This project explores the use of supervised learning, specifically linear regres
 
 # 📚Data:
 
-The project utilizes a dataset accessible at the following URL: http://bit.ly/w-data. This dataset contains information about student study hours and corresponding scores.
+The project utilizes a dataset accessible at the following URL: http://bit.ly/w-data. 
+This dataset contains information about student study hours and corresponding scores.
 
 # 🛒Libraries Used:
 
-- pandas (pd): For data manipulation and analysis.
-- numpy (np): For numerical operations and array manipulation.
-- matplotlib.pyplot (plt): For creating visualizations.
-- seaborn (sns): For advanced statistical visualizations.
-- scikit-learn:
-train_test_split: To split data into training and testing sets.
-LinearRegression: To implement the linear regression model.
-accuracy_score: To evaluate model accuracy (for classification problems).
+- **pandas (pd):** For data manipulation and analysis.
+- **numpy (np):** For numerical operations and array manipulation.
+- **matplotlib.pyplot (plt):** For creating visualizations.
+- **seaborn (sns):** For advanced statistical visualizations.
+- **scikit-learn:**
+**train_test_split:** To split data into training and testing sets.
+**LinearRegression:** To implement the linear regression model.
+**accuracy_score:** To evaluate model accuracy (for classification problems).
 
 # 📍Steps Involved:
 
